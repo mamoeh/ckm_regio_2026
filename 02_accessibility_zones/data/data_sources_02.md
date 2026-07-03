@@ -9,4 +9,4 @@ https://gdz.bkg.bund.de/index.php/default/digitale-geodaten/verwaltungsgebiete/v
 Persons aged 65+ at LAU level:
 https://ergebnisse.zensus2022.de/datenbank/online/statistic/1000A/table/1000A-1003/table-toolbar
 
-Die berechneten Erreichbarkeitszonen stehen aus lizenzrechtlichen Gründen bisher ausschließlich der Bundesverwaltung zur Verfügung und sind nicht öffentlich verfügbar!
+The routed accessibility zones are not publicly available, due to licensing issues (see Elling & Weiner, 2023, Erreichbarkeitsanalysen für Deutschland – das EU-Projekt Gitterzellendatenbank, https://zenodo.org/records/10725706).
