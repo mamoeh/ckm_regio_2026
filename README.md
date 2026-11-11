@@ -3,7 +3,7 @@
 ## 01_replication Prenzel
 
 R script for reproducing the analysis from section 4.2
-+ script for Monte-Carlo verification of variance estimation formulas
+R script for Monte-Carlo verification of variance estimation formulas
 
 The analysis builds on:
 
