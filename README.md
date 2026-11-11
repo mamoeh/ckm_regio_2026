@@ -2,7 +2,8 @@
 
 ## 01_replication Prenzel
 
-R script for reproducing the analysis from section 4.1
+R script for reproducing the analysis from section 4.2
++ script for Monte-Carlo verification of variance estimation formulas
 
 The analysis builds on:
 
@@ -13,7 +14,7 @@ Data not included. For data sources see [here](https://github.com/mamoeh/ckm_reg
 
 ## 02_accessibility_zones
 
-R scripts for reproducing the analysis from section 4.2
+R scripts for reproducing the analysis from section 4.1
 
 Data not included. For data sources see [here](https://github.com/mamoeh/ckm_regio_2026/blob/main/02_accessibility_zones/data/data_sources_02.md).
 
