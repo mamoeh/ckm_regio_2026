@@ -44,15 +44,17 @@ div2_getV <- function(x, N) { ent_getV(x, N) / log(length(x))^2 * 10^4 }
 
 ## Simulation parameters
 
-pt <- create_cnt_ptable(D = 5, V = 1) # noise distribution
-R <- 1e+4                             # no. of Monte-Carlo repetitions
+# example noise distribution
+pt <- create_cnt_ptable(D = 5, V = 3, js = 2, pstay = .3) 
+# no. of Monte-Carlo repetitions
+R <- 1e+4                             
 
 
 # ----- Simulation -----
 
 # elementary regions
 N_even <- rep(100, 10)
-N_skew <- c(991, rep(1, 9))
+N_skew <- c(986, rep(2, 5), rep(1, 4))
 N_unev <- c(480, 230, 100, 70, 40, 20, 20, 20, 10, 10) 
 # composite region
 N_tota <- N_even + N_skew + N_unev
